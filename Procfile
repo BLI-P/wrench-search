@@ -1,1 +1,1 @@
-web: gunicorn app:console
+web:gunicorn app:console
